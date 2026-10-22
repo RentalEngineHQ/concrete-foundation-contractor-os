@@ -1,0 +1,14 @@
+{
+  "asset_class": "Residential Concrete Foundation Contractor Template",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "continuous_pour_cubic_yard_calculations",
+    "mix_grade_tracking",
+    "labor_draw_logs",
+    "site_material_tracking"
+  ]
+}
